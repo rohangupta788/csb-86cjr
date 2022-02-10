@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rohangupta788.github.io/csb-86cjr/static/css/main.ebbbf651.chunk.css",
+    "main.js": "https://rohangupta788.github.io/csb-86cjr/static/js/main.13af7fe2.chunk.js",
+    "main.js.map": "https://rohangupta788.github.io/csb-86cjr/static/js/main.13af7fe2.chunk.js.map",
+    "runtime-main.js": "https://rohangupta788.github.io/csb-86cjr/static/js/runtime-main.195c6dcf.js",
+    "runtime-main.js.map": "https://rohangupta788.github.io/csb-86cjr/static/js/runtime-main.195c6dcf.js.map",
+    "static/js/2.f53dd4b6.chunk.js": "https://rohangupta788.github.io/csb-86cjr/static/js/2.f53dd4b6.chunk.js",
+    "static/js/2.f53dd4b6.chunk.js.map": "https://rohangupta788.github.io/csb-86cjr/static/js/2.f53dd4b6.chunk.js.map",
+    "index.html": "https://rohangupta788.github.io/csb-86cjr/index.html",
+    "static/css/main.ebbbf651.chunk.css.map": "https://rohangupta788.github.io/csb-86cjr/static/css/main.ebbbf651.chunk.css.map",
+    "static/js/2.f53dd4b6.chunk.js.LICENSE.txt": "https://rohangupta788.github.io/csb-86cjr/static/js/2.f53dd4b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.195c6dcf.js",
+    "static/js/2.f53dd4b6.chunk.js",
+    "static/css/main.ebbbf651.chunk.css",
+    "static/js/main.13af7fe2.chunk.js"
+  ]
+}
